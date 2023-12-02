@@ -20,65 +20,67 @@ characters:
   - s
   - h
   - c
-  - p
   - d
   - l
-  - f
+  - p
   - m
-  - u
+  - f
   - g
+  - u
+  - v
+  - ','
   - b
   - y
-  - ','
-  - v
-  - '-'
-  - '4'
   - ¬
-  - A
-  - k
-  - .
-  - S
   - '1'
-  - G
-  - w
-  - /
-  - '5'
-  - '2'
+  - .
   - '9'
-  - '0'
+  - '4'
   - C
+  - '2'
+  - '-'
+  - w
+  - k
+  - S
+  - G
+  - A
+  - /
+  - N
   - '8'
-  - '3'
-  - '6'
-  - '"'
-  - ;
+  - D
+  - '0'
+  - '5'
   - I
   - U
-  - q
-  - '7'
-  - x
-  - N
-  - T
-  - M
+  - z
+  - ;
   - R
+  - '3'
+  - x
+  - P
+  - '6'
+  - q
+  - E
+  - '7'
+  - M
+  - T
+  - '"'
   - (
   - )
-  - D
-  - z
-  - B
-  - V
+  - W
   - O
   - F
-  - P
+  - V
+  - B
+  - ́
+  - J
   - H
-  - E
+  - X
+  - L
+  - j
   - ':'
   - Q
-  - X
-  - J
-  - ́
-  - W
-  - L
+  - –
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20/blob/master/CITATION.cff
 description: English UN resolutions
@@ -106,7 +108,7 @@ title: FONDUE-EN-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20
 volume:
-- count: 10283
+- count: 25521
   metric: characters
 - count: 5
   metric: files

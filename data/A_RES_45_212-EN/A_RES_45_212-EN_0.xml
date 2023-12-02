@@ -124,12 +124,11 @@
                     WIDTH="2833"
                     HEIGHT="134">
             <Shape><Polygon POINTS="640 1290 640 1329 3461 1318 3467 1273 3450 1195 634 1207 640 1290"/></Shape>
-	    <String CONTENT="8. Ewpresses its appreciation to the Governments."
+	    <String CONTENT="8. Expresses its appreciation to the Governments"
                     HPOS="634"
                     VPOS="1195"
                     WIDTH="2833"
-                    HEIGHT="134"
-                    WC="0.986738061418339"></String>
+                    HEIGHT="134"></String>
           </TextLine>
 
           
@@ -142,12 +141,11 @@
                     WIDTH="2922"
                     HEIGHT="134">
             <Shape><Polygon POINTS="539 1412 539 1457 3450 1451 3456 1396 3439 1323 534 1335 539 1412"/></Shape>
-	    <String CONTENT="that have contributed to the Voluntary Fund for the."
+	    <String CONTENT="that have contributed to the Voluntary Fund for the"
                     HPOS="534"
                     VPOS="1323"
                     WIDTH="2922"
-                    HEIGHT="134"
-                    WC="0.995511922698755"></String>
+                    HEIGHT="134"></String>
           </TextLine>
 
           
@@ -1178,12 +1176,11 @@
                     WIDTH="2738"
                     HEIGHT="134">
             <Shape><Polygon POINTS="4925 589 4869 572 4814 556 4797 550 2226 561 2198 589 2203 639 2203 684 4931 667 4936 623 4925 589 4925 589"/></Shape>
-	    <String CONTENT="V. Resolutions adopted on the reports of the Second Committee."
+	    <String CONTENT="V. Resolutions adopted on the reports of the Second Committee"
                     HPOS="2198"
                     VPOS="550"
                     WIDTH="2738"
-                    HEIGHT="134"
-                    WC="0.991308719881119"></String>
+                    HEIGHT="134"></String>
           </TextLine>
 
           
@@ -1643,7 +1640,7 @@
                     WIDTH="2928"
                     HEIGHT="150">
             <Shape><Polygon POINTS="3656 4199 3650 4261 3656 4266 3662 4266 3662 4272 3667 4272 3673 4272 3678 4272 6572 4261 6578 4216 6572 4122 3656 4122 3656 4199"/></Shape>
-	    <String CONTENT="adopted at its organizational session79 and at its first"
+	    <String CONTENT="adopted at its organizational session 79 and at its first"
                     HPOS="3650"
                     VPOS="4122"
                     WIDTH="2928"

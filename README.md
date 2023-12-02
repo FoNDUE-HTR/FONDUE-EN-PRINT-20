@@ -9,6 +9,7 @@ This repo contains the transcription of 20th c. English prints.
 
 | Town      | Library               | Shelfmark                                                      | Pages    | Date | Transcription |
 |-----------|-----------------------|----------------------------------------------------------------|----------|------|---------------|
+| New York  | United Nations Libary | [A_RES_44_192-EN](https://digitallibrary.un.org/record/241315) | 2 pages  | 1990 | S. Gabay      |
 | New York  | United Nations Libary | [A_RES_45_212-EN](https://digitallibrary.un.org/record/196769) | 3 pages  | 1990 | S. Gabay      |
 
 

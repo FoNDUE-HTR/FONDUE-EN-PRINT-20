@@ -11,6 +11,75 @@ automatically-aligned: false
 characters:
   members:
   - e
+  - t
+  - n
+  - o
+  - a
+  - i
+  - r
+  - s
+  - h
+  - c
+  - l
+  - d
+  - m
+  - g
+  - f
+  - p
+  - u
+  - v
+  - ','
+  - b
+  - y
+  - ¬
+  - '1'
+  - '9'
+  - C
+  - .
+  - '2'
+  - N
+  - D
+  - w
+  - '4'
+  - '8'
+  - '-'
+  - /
+  - U
+  - z
+  - I
+  - S
+  - G
+  - k
+  - E
+  - '0'
+  - P
+  - R
+  - ;
+  - A
+  - x
+  - '5'
+  - q
+  - '7'
+  - W
+  - M
+  - '3'
+  - '6'
+  - T
+  - O
+  - F
+  - (
+  - ́
+  - j
+  - )
+  - J
+  - V
+  - X
+  - L
+  - H
+  - B
+  - '"'
+  - –
+  - ':'
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20/blob/master/CITATION.cff
 description: English UN resolutions

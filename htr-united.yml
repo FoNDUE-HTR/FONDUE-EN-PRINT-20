@@ -39,8 +39,8 @@ characters:
   - '2'
   - N
   - D
-  - w
   - '4'
+  - w
   - '8'
   - '-'
   - /
@@ -55,8 +55,8 @@ characters:
   - P
   - R
   - ;
-  - A
   - x
+  - A
   - '5'
   - q
   - '7'
@@ -107,7 +107,7 @@ title: FONDUE-EN-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20
 volume:
-- count: 15241
+- count: 15238
   metric: characters
 - count: 3
   metric: files

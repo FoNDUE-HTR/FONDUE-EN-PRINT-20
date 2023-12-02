@@ -11,101 +11,75 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - s
-  - a
   - t
-  - u
-  - i
-  - r
   - n
   - o
+  - a
+  - i
+  - r
+  - s
+  - h
+  - c
   - l
   - d
-  - c
   - m
-  - p
-  - ','
-  - v
-  - q
-  - .
-  - ́
-  - f
   - g
+  - f
+  - p
+  - u
+  - v
+  - ','
   - b
-  - h
-  - "'"
-  - ’
-  - I
-  - +
   - y
   - ¬
   - '1'
-  - ̀
-  - ̂
-  - x
-  - V
-  - j
-  - S
-  - '2'
-  - ':'
-  - E
-  - X
-  - C
-  - L
-  - J
-  - '3'
-  - D
-  - '4'
-  - M
-  - ;
-  - ̈
-  - A
-  - '5'
-  - '6'
-  - '8'
   - '9'
-  - '7'
+  - C
+  - .
+  - '2'
+  - N
+  - D
+  - w
+  - '4'
+  - '8'
+  - '-'
+  - /
+  - U
+  - z
+  - I
+  - S
+  - G
+  - k
+  - E
   - '0'
   - P
-  - O
-  - ̧
   - R
-  - '-'
-  - N
-  - G
+  - ;
+  - A
+  - x
+  - '5'
+  - q
+  - '7'
+  - W
+  - M
+  - '3'
+  - '6'
   - T
-  - '?'
-  - B
-  - œ
-  - H
-  -  
-  - Q
-  - α
+  - O
   - F
-  - z
-  - Z
-  - U
-  - ̓
-  - ο
-  - ν
-  - μ
-  - ω
-  - τ
-  - δ
-  - ε
-  - ρ
-  - φ
   - (
+  - ́
+  - j
   - )
-  - '{'
-  - k
-  - Ψ
-  - ι
-  - υ
-  - π
-  - λ
-  - Y
-  - K
+  - J
+  - V
+  - X
+  - L
+  - H
+  - B
+  - '"'
+  - –
+  - ':'
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20/blob/master/CITATION.cff
 description: English UN resolutions
@@ -133,11 +107,11 @@ title: FONDUE-EN-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20
 volume:
-- count: 108705
+- count: 15241
   metric: characters
-- count: 82
+- count: 3
   metric: files
-- count: 2933
+- count: 370
   metric: lines
-- count: 203
+- count: 12
   metric: regions

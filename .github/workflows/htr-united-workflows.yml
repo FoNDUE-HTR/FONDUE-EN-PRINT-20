@@ -74,6 +74,7 @@ jobs:
       - name: Run ChocoMufin
         run: |
           chocomufin control table.csv ./data/*/*.xml
+          cat table.csv
   HTRVX:
     runs-on: ubuntu-latest
     steps:

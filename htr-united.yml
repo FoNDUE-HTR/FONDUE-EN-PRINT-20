@@ -7,6 +7,14 @@ authors:
   - quality-control
   - support
   surname: Gabay
+- name: Jessica
+  roles:
+  - transcriber
+  surname: Da Silva Fernandes
+- name: Myriam
+  roles:
+  - transcriber
+  surname: Perregaux
 automatically-aligned: false
 characters:
   members:

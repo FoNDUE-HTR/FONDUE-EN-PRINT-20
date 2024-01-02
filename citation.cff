@@ -10,6 +10,12 @@ authors:
     email: simon.gabay@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Perregaux
+    given-names: Myriam
+    affiliation: Geneva University
+  - family-names: Da Silva Fernandes
+    given-names: Jessica
+    affiliation: Geneva University
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20'
 keywords:
   - HTR

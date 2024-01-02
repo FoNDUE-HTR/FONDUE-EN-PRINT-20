@@ -19,68 +19,79 @@ characters:
   - r
   - s
   - h
-  - c
   - d
   - l
+  - c
   - p
   - m
-  - f
-  - g
   - u
+  - g
+  - f
   - v
+  - y
   - ','
   - b
-  - y
-  - ¬
-  - '1'
   - .
-  - '9'
-  - '4'
-  - C
-  - '2'
-  - '-'
+  - '1'
+  - ¬
   - w
-  - k
+  - C
+  - '9'
+  - '-'
   - S
-  - G
-  - A
-  - /
-  - N
   - '8'
+  - '4'
+  - '2'
+  - k
+  - A
+  - T
+  - G
+  - N
   - D
   - '0'
-  - '5'
-  - I
-  - U
-  - z
-  - ;
-  - R
-  - '3'
   - x
-  - P
+  - '5'
   - '6'
-  - q
-  - E
-  - '7'
-  - M
-  - T
-  - '"'
+  - I
+  - /
+  - R
+  - ;
   - (
+  - z
   - )
+  - '7'
+  - '3'
+  - M
+  - U
+  - E
+  - P
   - W
-  - O
-  - F
-  - V
+  - q
   - B
-  - ́
-  - J
   - H
-  - X
-  - L
-  - j
-  - ':'
   - Q
+  - '"'
+  - F
+  - Y
+  - O
+  - L
+  - J
+  - K
+  - '['
+  - ']'
+  - j
+  - X
+  - Z
+  - ’
+  - V
+  - ́
+  - ':'
+  - "'"
+  - ”
   - –
+  - “
+  - '?'
+  - —
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20/blob/master/CITATION.cff
 description: English UN resolutions
@@ -108,11 +119,11 @@ title: FONDUE-EN-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20
 volume:
-- count: 25521
+- count: 39137
   metric: characters
-- count: 5
+- count: 10
   metric: files
-- count: 630
+- count: 971
   metric: lines
-- count: 20
+- count: 31
   metric: regions
